@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Peniel
-- 👀 I’m interested in programming apps and web sites
-- 🌱 I’m currently learning the Java programming language
-- 💞️ I’m looking to collaborate on softwares, mobile and web apps programming
+- 👀 I’m interested in programming and cybersecurity
+- 💞️ I’m looking to collaborate on cybersecurity projects
 - 📫 How to reach me : 68070839 (my whatsapp number) or sewademahoussepeniel@gmail.com
 
 <!---
